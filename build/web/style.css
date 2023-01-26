@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 24, 2022, 1:35:16 PM
+    Author     : ILD01
+*/
+body{
+    background-image: url("Desktop.jpg");
+    background-size: 100%;
+}
+
+@media screen and (min-width: 600px) {
+
+    .shadow-lg{
+        width: 50%;
+        margin: auto;
+    }
+}
